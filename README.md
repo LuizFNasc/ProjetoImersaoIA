@@ -20,4 +20,4 @@ O principal objetivo deste projeto é simplificar o processo de consulta e anál
 
 ## Autor: 
 - https://www.linkedin.com/in/nascimentolfelipe/
-Apaixonado por tecnologia e dados! Adepto em desenvolver soluções de negócios e na otimização de tarefas para a melhora de processos.
+- Apaixonado por tecnologia e dados! Adepto em desenvolver soluções de negócios e na otimização de tarefas para a melhora de processos.
